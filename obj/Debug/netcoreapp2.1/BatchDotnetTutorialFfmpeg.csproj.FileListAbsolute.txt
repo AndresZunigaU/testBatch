@@ -1,0 +1,12 @@
+C:\Users\andres.zuniga1\Downloads\batch-dotnet-ffmpeg-tutorial-master\BatchDotnetTutorialFfmpeg\bin\Debug\netcoreapp2.1\BatchDotnetTutorialFfmpeg.deps.json
+C:\Users\andres.zuniga1\Downloads\batch-dotnet-ffmpeg-tutorial-master\BatchDotnetTutorialFfmpeg\bin\Debug\netcoreapp2.1\BatchDotnetTutorialFfmpeg.runtimeconfig.json
+C:\Users\andres.zuniga1\Downloads\batch-dotnet-ffmpeg-tutorial-master\BatchDotnetTutorialFfmpeg\bin\Debug\netcoreapp2.1\BatchDotnetTutorialFfmpeg.runtimeconfig.dev.json
+C:\Users\andres.zuniga1\Downloads\batch-dotnet-ffmpeg-tutorial-master\BatchDotnetTutorialFfmpeg\bin\Debug\netcoreapp2.1\BatchDotnetTutorialFfmpeg.dll
+C:\Users\andres.zuniga1\Downloads\batch-dotnet-ffmpeg-tutorial-master\BatchDotnetTutorialFfmpeg\bin\Debug\netcoreapp2.1\BatchDotnetTutorialFfmpeg.pdb
+C:\Users\andres.zuniga1\Downloads\batch-dotnet-ffmpeg-tutorial-master\BatchDotnetTutorialFfmpeg\obj\Debug\netcoreapp2.1\BatchDotnetTutorialFfmpeg.csprojAssemblyReference.cache
+C:\Users\andres.zuniga1\Downloads\batch-dotnet-ffmpeg-tutorial-master\BatchDotnetTutorialFfmpeg\obj\Debug\netcoreapp2.1\BatchDotnetTutorialFfmpeg.AssemblyInfoInputs.cache
+C:\Users\andres.zuniga1\Downloads\batch-dotnet-ffmpeg-tutorial-master\BatchDotnetTutorialFfmpeg\obj\Debug\netcoreapp2.1\BatchDotnetTutorialFfmpeg.AssemblyInfo.cs
+C:\Users\andres.zuniga1\Downloads\batch-dotnet-ffmpeg-tutorial-master\BatchDotnetTutorialFfmpeg\obj\Debug\netcoreapp2.1\BatchDotnetTutorialFfmpeg.csproj.CoreCompileInputs.cache
+C:\Users\andres.zuniga1\Downloads\batch-dotnet-ffmpeg-tutorial-master\BatchDotnetTutorialFfmpeg\obj\Debug\netcoreapp2.1\BatchDotnetTutorialFfmpeg.dll
+C:\Users\andres.zuniga1\Downloads\batch-dotnet-ffmpeg-tutorial-master\BatchDotnetTutorialFfmpeg\obj\Debug\netcoreapp2.1\BatchDotnetTutorialFfmpeg.pdb
+C:\Users\andres.zuniga1\Downloads\batch-dotnet-ffmpeg-tutorial-master\BatchDotnetTutorialFfmpeg\obj\Debug\netcoreapp2.1\BatchDotnetTutorialFfmpeg.genruntimeconfig.cache
